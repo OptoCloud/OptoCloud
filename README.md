@@ -19,4 +19,4 @@ My website: [optocloud.no](https://www.optocloud.no/)
 [![Discord](https://img.shields.io/badge/Discord-OptoCloud%230001-blue?style=for-the-badge&logo=discord)](https://discord.com/users/256779446944530432)
 
 [![OptoCloud's github stats](https://github-readme-stats.vercel.app/api?username=OptoCloud&theme=tokyonight&show_icons=true&count_private=true&skipcahce)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptoCloud&theme=tokyonight&layout=compact&skipcahce)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptoCloud&theme=tokyonight&layout=compact&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
