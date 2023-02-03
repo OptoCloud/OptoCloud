@@ -8,8 +8,9 @@ Used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with it 
 
 I have started also looking into other languages/framworks including:
 - Go
+- Rust
 - Python
-- TypeScript ( Node / React )
+- TypeScript ( Node / React / Svelte )
 - Dart ( Flutter )
 
 I also do electronics designs and 3d modeling for game content :)
