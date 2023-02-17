@@ -8,8 +8,6 @@ Used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with it 
 
 [![OptoCloud's github stats](https://github-readme-stats.vercel.app/api?username=OptoCloud&theme=tokyonight&show_icons=true&count_private=true&skipcahce)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptoCloud&theme=tokyonight&layout=compact&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
-
 ## I have a decent amount of experience within many fields:
 
 [![My Languages](https://skillicons.dev/icons?i=cs,cpp,ts,py,go,regex,html,css,bash,powershell&perline=12)](https://skillicons.dev)
@@ -23,6 +21,8 @@ Used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with it 
 [![My Platforms](https://skillicons.dev/icons?i=github,cloudflare,arduino,raspberrypi,linux&perline=12)](https://skillicons.dev)
 
 [![My Databases](https://skillicons.dev/icons?i=sqlite,postgres,redis,mysql,mongodb&perline=12)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptoCloud&theme=tokyonight&layout=compact&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
 ## And I'm exploring:
 
