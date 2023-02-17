@@ -2,9 +2,11 @@
 
 ### I'm OptoCloud
 
-I am a self-taught C++, C#, and frontend developer.
+I am a self-taught C++, C#, and frontend developer that also likes to explore many different areas.
 
-Used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with it after they added [EAC](https://easy.ac/), I've since made the mods open-source.
+My interest go from programming, frontend design, electronics design, 3d modelling, all the way to cars, aviation, paintball, and alpine skiing.
+
+I used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with it after they added [EAC](https://easy.ac/), I've since made the mods open-source.
 
 [![OptoCloud's github stats](https://github-readme-stats.vercel.app/api?username=OptoCloud&theme=tokyonight&show_icons=true&count_private=true&skipcahce)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,7 +26,7 @@ Used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with it 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptoCloud&theme=tokyonight&layout=compact&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
-## And I'm exploring:
+## And I'm exploring other fields:
 
 [![My learning languages](https://skillicons.dev/icons?i=githubactions,tauri,rust,dart,flutter,materialui,rabbitmq,unreal&perline=12)](https://skillicons.dev)
 
