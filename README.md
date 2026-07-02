@@ -22,10 +22,4 @@ I used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OptoCloud&theme=tokyonight&layout=compact&hide=ShaderLab,HLSL)](https://github.com/anuraghazra/github-readme-stats)
 
-## You can find me on
-
-[![Social platforms](https://skillicons.dev/icons?i=discord,twitter,linkedin,stackoverflow&perline=12)](https://skillicons.dev)
-
-[![Discord](https://img.shields.io/badge/Discord-OptoCloud-blue?style=for-the-badge&logo=discord)](https://discord.com/users/256779446944530432)
-
-## My website [optocloud.no](https://www.optocloud.no/)
+## My portfolio [optocloud.no](https://optocloud.no/)
