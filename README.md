@@ -2,7 +2,7 @@
 
 I'm **OptoCloud**
 
-**Self-Taught software developer from Norway with 7+ years of experience in the industry.**
+**Self-Taught Full-Stack and Embedded software developer from Norway with 7+ years of experience in the industry.**
 
 💼 Full-Stack developer at [Bouvet](https://bouvet.no/)
 
