@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi!
 
-#### Self-taught C#, Web, and C++ developer that also likes to explore many different areas.
+I'm **OptoCloud**
 
-Full-Stack developer at [Bouvet](https://bouvet.no/)
+**Self-taught C#, Web, and C++ developer that also likes to explore many different areas.**
 
-Check out my website: [optocloud.no](https://optocloud.no/)
-
-My interest go from programming, frontend design, electronics design, 3d modelling, all the way to skydiving, cars, skiing, and aviation.
+- Full-Stack developer at [Bouvet](https://bouvet.no/)
+- In my freetime I go skydiving.
+- Interested in Space, Rocketry, Aviation, and Robotics.
+- Check out my website: [optocloud.no](https://optocloud.no/)
+- Or my socials: [Twitter](https://x.com/OptoCloud)
 
 ![Metrics](/github-metrics.svg)
-
-## I have a decent amount of experience within many fields:
 
 **Languages**
 
