@@ -1,10 +1,10 @@
-# Hi there 👋
+### Hi there 👋
 
-I am a self-taught C#, Web, and C++ developer that also likes to explore many different areas.
+#### Self-taught C#, Web, and C++ developer that also likes to explore many different areas.
+
+Full-Stack developer at [Bouvet](https://bouvet.no/)
 
 My interest go from programming, frontend design, electronics design, 3d modelling, all the way to skydiving, cars, skiing, and aviation.
-
-I used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with it after they added [EAC](https://easy.ac/), I've since made the mods open-source.
 
 ![Metrics](/github-metrics.svg)
 
