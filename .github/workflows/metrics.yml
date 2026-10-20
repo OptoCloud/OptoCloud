@@ -1,0 +1,35 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+      - uses: oddstr13/github-profile-metrics@odd-choices
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: optocloud
+          template: classic
+          base: activity, community, repositories, metadata
+          config_timezone: Europe/Oslo
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: recently-used
+          plugin_languages_threshold: 0%
+          plugin_languages_commits_authoring: OptoCloud, git@optocloud.no, github@optocloud.no
+#          plugin_languages_ignored: shaderlab, hlsl, glsl
+          plugin_languages_indepth: true
