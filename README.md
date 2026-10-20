@@ -2,13 +2,25 @@
 
 I'm **OptoCloud**
 
-**Self-taught C#, Web, and C++ developer that also likes to explore many different areas.**
+**Self-Taught software developer from Norway with 7+ years of experience in the industry.**
 
-- Full-Stack developer at [Bouvet](https://bouvet.no/)
-- In my freetime I go skydiving.
-- Interested in Space, Rocketry, Aviation, and Robotics.
-- Check out my website: [optocloud.no](https://optocloud.no/)
-- Or my socials: [Twitter](https://x.com/OptoCloud)
+💼 Full-Stack developer at [Bouvet](https://bouvet.no/)
+
+🚀 Been working as a software developer ever since I finished grade school, starting my career at [Maritime Robotics](https://www.maritimerobotics.com/) developing semi-autonomous aerial drones, and mastering the fundementals of C++ and Qt there. In my freetime I have been in the modding community tinkering with and creating mods for Unity games and getting introduced to C# trough that experince, this later came in handy when I started working for [Bouvet](https://bouvet.no/) where I have mastered Full-Stack development with ASP.NET and React.
+
+🛠️ In my freetime I work on alot of personal projects and I've learnt alot of SvelteKit trough these projects. I also do 3D design, PCB design, game modding, web dev, and more, look trough my repositories. I might have gone a bit overboard and most of it is archived now 😆
+
+🤖 Currently starting an AI-detox from using ChatGPT and Claude Code, these tools are great if you know how to correct them but with enough heavy use you loose your experience.
+
+🔥 I love learning more about Rocketry, Astronomy, Aviation, Robotics, and car stuff!
+
+🏕️ In my freetime I try to touch grass on a regular, as a developer I believe this is healthy and absolutely necessary for both our mental and physical health, go for a regular walk or run. It helps immensely ❤️
+
+🪂 Skydiving on a regular, check out my license and jump stats [here](https://optocloud.no/skydiving)
+
+My work experience can be found [on my website](https://optocloud.no/portfolio)
+
+Contact me via [Twitter](https://x.com/OptoCloud) or [LinkedIn](https://www.linkedin.com/in/optocloud)
 
 ![Metrics](/github-metrics.svg)
 
@@ -29,6 +41,3 @@ I'm **OptoCloud**
 **Dev Tools**
 
 [![My Dev Tools](https://skillicons.dev/icons?i=rider,vscode,postman,unity,blender&perline=12)](https://skillicons.dev)
-
-
-
