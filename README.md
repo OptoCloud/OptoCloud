@@ -1,14 +1,12 @@
 # Hi there 👋
 
-### I'm OptoCloud
-
 I am a self-taught C#, Web, and C++ developer that also likes to explore many different areas.
 
-My interest go from programming, frontend design, electronics design, 3d modelling, all the way to skydiving, cars, siing, and aviation.
+My interest go from programming, frontend design, electronics design, 3d modelling, all the way to skydiving, cars, skiing, and aviation.
 
 I used to do alot of modding of [VRChat](https://vrchat.com/) but stopped with it after they added [EAC](https://easy.ac/), I've since made the mods open-source.
 
-[![OptoCloud's github stats](https://github-readme-stats.vercel.app/api?username=OptoCloud&theme=tokyonight&show_icons=true&count_private=true&skipcahce)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](/github-metrics.svg)
 
 ## I have a decent amount of experience within many fields:
 
