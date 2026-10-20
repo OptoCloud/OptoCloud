@@ -4,6 +4,8 @@
 
 Full-Stack developer at [Bouvet](https://bouvet.no/)
 
+Check out my website: [optocloud.no](https://optocloud.no/)
+
 My interest go from programming, frontend design, electronics design, 3d modelling, all the way to skydiving, cars, skiing, and aviation.
 
 ![Metrics](/github-metrics.svg)
@@ -30,4 +32,3 @@ My interest go from programming, frontend design, electronics design, 3d modelli
 
 
 
-## My portfolio [optocloud.no](https://optocloud.no/)
