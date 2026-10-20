@@ -2,19 +2,19 @@
 
 I'm **OptoCloud**
 
-**Self-Taught Full-Stack and Embedded software developer from Norway with 7+ years of experience in the industry.**
+**Self-Taught software developer from Norway with 7+ years of experience in the industry across full-stack development, embedded systems, and robotics.**
 
 💼 Full-Stack developer at [Bouvet](https://bouvet.no/)
 
-🚀 Been working as a software developer ever since I finished grade school, starting my career at [Maritime Robotics](https://www.maritimerobotics.com/) developing semi-autonomous aerial drones, and mastering the fundementals of C++ and Qt there. In my freetime I have been in the modding community tinkering with and creating mods for Unity games and getting introduced to C# trough that experince, this later came in handy when I started working for [Bouvet](https://bouvet.no/) where I have mastered Full-Stack development with ASP.NET and React.
+🚀 Been working as a software developer ever since I finished grade school, started my career at [Maritime Robotics](https://www.maritimerobotics.com/) developing semi-autonomous aerial drones, and mastering the fundamentals of C++ and Qt there. In my freetime I have been in the modding community tinkering with and creating mods for Unity games and getting introduced to C# through that experience, this later came in handy when I started working for [Bouvet](https://bouvet.no/) where I have mastered Full-Stack development with ASP.NET and React.
 
-🛠️ In my freetime I work on alot of personal projects including Web Dev, Game Modding, Reverse Engineering Applications and Protocols, 3D/CAD Design, PCB Design, and more. You can find alot of my work as archived repositories, I might have gone a bit too far over the years and hace tried putting some effort into cleaning up 😆
+🛠️ In my free time I work on a lot of personal projects including Web Dev, Game Modding, Reverse Engineering Applications and Protocols, 3D/CAD Design, PCB Design, and more. You can find alot of my work as archived repositories, I might have gone a bit too far over the years and have tried putting some effort into cleaning up 😆
 
-🤖 Currently starting an AI-detox from using ChatGPT and Claude Code, these tools are great if you know how to correct them but with enough heavy use you loose your experience.
+🤖 Currently taking a break from AI-Assisted development tools like ChatGPT and Claude Code, these tools are great when you understand their output and can spot their shortcomings, but with enough heavy use you eventually hurt your skills and fundementals. You should watch JetBrains' video on this, they are great.
 
 🔥 I love learning more about Rocketry, Astronomy, Aviation, Robotics, and car stuff!
 
-🏕️ In my freetime I try to touch grass on a regular, as a developer I believe this is healthy and absolutely necessary for both our mental and physical health, go for a regular walk or run. It helps immensely ❤️
+🏕️ Outside of code I try to touch grass on a regular, as a developer I believe this is healthy and absolutely necessary for both our mental and physical health, go for a regular walk or run, try to find a sport you enjoy, and try to put your phone down. It helps immensely ❤️
 
 🪂 Skydiving on a regular, check out my license and jump stats [here](https://optocloud.no/skydiving)
 
