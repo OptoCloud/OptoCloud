@@ -8,7 +8,7 @@ I'm **OptoCloud**
 
 🚀 Been working as a software developer ever since I finished grade school, starting my career at [Maritime Robotics](https://www.maritimerobotics.com/) developing semi-autonomous aerial drones, and mastering the fundementals of C++ and Qt there. In my freetime I have been in the modding community tinkering with and creating mods for Unity games and getting introduced to C# trough that experince, this later came in handy when I started working for [Bouvet](https://bouvet.no/) where I have mastered Full-Stack development with ASP.NET and React.
 
-🛠️ In my freetime I work on alot of personal projects and I've learnt alot of SvelteKit trough these projects. I also do 3D design, PCB design, game modding, web dev, and more, look trough my repositories. I might have gone a bit overboard and most of it is archived now 😆
+🛠️ In my freetime I work on alot of personal projects including Web Dev, Game Modding, Reverse Engineering Applications and Protocols, 3D/CAD Design, PCB Design, and more. You can find alot of my work as archived repositories, I might have gone a bit too far over the years and hace tried putting some effort into cleaning up 😆
 
 🤖 Currently starting an AI-detox from using ChatGPT and Claude Code, these tools are great if you know how to correct them but with enough heavy use you loose your experience.
 
